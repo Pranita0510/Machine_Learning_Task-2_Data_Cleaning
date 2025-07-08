@@ -1,4 +1,4 @@
-🧼 Data Cleaning Task - 2:
+**🧼 Data Cleaning Task - 2:**
 
 This Jupyter Notebook demonstrates advanced data cleaning techniques using Pandas to prepare raw datasets for accurate analysis and modeling.
 
